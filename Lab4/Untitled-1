@@ -1,0 +1,3 @@
+​python Lab4_template/Trainer.py --DR LAB4_Dataset/LAB4_Dataset --save_root Lab4_template/result/weight
+
+​python Lab4_template/Tester.py --DR LAB4_Dataset/LAB4_Dataset --save_root Lab4_template/result --ckpt_path Lab4_template/result/weight/
